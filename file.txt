@@ -1,1 +1,9 @@
 chess code
+
+pawn
+
+king
+
+queen
+
+w/e
